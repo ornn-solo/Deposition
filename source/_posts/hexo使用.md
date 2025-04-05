@@ -2,10 +2,10 @@
 title: hexo使用
 date: 2025-04-04 22:17:59
 tags: 
+- Hexo
 categories: 
-description: hexo 安装，部署到 github page，配置 butterfly 主题
-comments: true 
-top_img: /img/logo.png
+- 其他
+description: hexo 安装，部署到 github page，配置 butterfly 主题 
 ---
 
 # hexo
